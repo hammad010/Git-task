@@ -1,0 +1,19 @@
+Created a repo on github with simle file named app.js
+I cloned the repo using the link 
+Made changes to the file and then i created a new branch called feature and then pushed the file to that branch.
+Created the pre-commit hooks that won't allow the commit if there are trailing spaces ore debugging statemnts
+merged the branches and then created post-commit hooks that would send any notification to given link
+I faced the the following error when i was trying to merge
+
+
+To https://github.com/hammad010/Git-task.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/hammad010/Git-task.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+I resolved the error. took sometime but resolved.
+
+
